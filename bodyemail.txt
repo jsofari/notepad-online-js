@@ -1,0 +1,19 @@
+Kepada Yth. Tenant Colocation,
+di tempat
+
+Dengan hormat,
+
+Bersama email ini kami lampirkan dokumen Panduan Mitigasi Redundant Power untuk tenant colocation.
+Sebagai Tambahan untuk UPS pada Data Center saat ini sudah berjalan normal dan listrik sudah dikembalikan seperti design Awal
+Kami mohon maaf atas ketidaknyamanan yang ditimbulkan dan berkomitmen untuk meningkatkan keandalan sistem guna mencegah kejadian serupa di masa mendatang.
+Apabila diperlukan informasi atau klarifikasi lebih lanjut, kami siap untuk berdiskusi lebih lanjut kapan pun diperlukan.
+
+-- 
+Regards
+Network Operation Center
+PT. Solusi Data Cepat (P1 Data Center)
+Address : Gedung Cyber 1, Jl. Kuningan Barat Raya No.8 RT.1/RW.3, Kuningan
+Bar. Kec. Mampang Prpt. Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta
+12710
+Contact : +62 811-1916-3329
+Website :solusidatacepat.id
